@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, front-end, react, databases and blockchain
 - 🌱 I’m currently learning react and solidity mostly
 - 💞️ I’m looking to collaborate on blockchain projects or webpages
-- 📫 You can reach me via email: alelaru@gmail.com
+- 📫 You can reach me via email: alelaru33@gmail.com
 
 <!---
 alelaru/alelaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
